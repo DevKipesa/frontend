@@ -1,0 +1,17 @@
+.herosection{
+    padding: 20px;
+}
+
+.herosection .img{
+    padding: 0 80px;
+    position: relative;
+    z-index: 1;
+}
+
+.herosection .info{
+    position: absolute;
+    z-index: 2;
+    color: #fff;
+    padding-left: 20px;
+    width: 400px;
+}
